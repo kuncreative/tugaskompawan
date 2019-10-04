@@ -6,6 +6,7 @@ Untuk Memenuhi Tugas di kelas <b>Komputasi Awan 4</b>
 
 - 10116198 Farrid Kuntoro
 - 10116199 Imam Mozafar
+- 10116187 Reza Syahfrizal
 
 #Dibuat bersama pake :
 
