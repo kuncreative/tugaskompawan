@@ -13,5 +13,7 @@ Untuk Memenuhi Tugas di kelas <b>Komputasi Awan 4</b>
 - CSS
 - JS
 - HTML5
+- Frameworks Laravel 6
+- Pgsql
 
 <i>Dirancang dengan innovatif dan penuh kesadaran oleh <b>UHA-Developer</b>.</i
