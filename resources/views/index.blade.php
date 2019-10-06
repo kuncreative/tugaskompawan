@@ -39,7 +39,7 @@
                       <!-- /LOGO -->
                       <!-- TEXT + BUTTON -->
                       <div class="col-sm-8 ds-text-button">
-                        <a href="/login">LOGIN UHA</a>
+                        <a href="{{ route('login') }}">LOGIN UHA</a>
                       </div>
                       <!-- /TEXT + BUTTON -->
                     </div>
