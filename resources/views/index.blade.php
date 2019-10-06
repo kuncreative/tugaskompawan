@@ -39,7 +39,7 @@
                       <!-- /LOGO -->
                       <!-- TEXT + BUTTON -->
                       <div class="col-sm-8 ds-text-button">
-                        <a href="#pricing">LOGIN UHA</a>
+                        <a href="/login">LOGIN UHA</a>
                       </div>
                       <!-- /TEXT + BUTTON -->
                     </div>
